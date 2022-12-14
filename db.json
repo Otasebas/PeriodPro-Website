@@ -1,0 +1,182 @@
+{
+    "reusable-products": [
+        {
+            "id": 1,
+            "name": "The Period Company High-Waisted Light Flow Underwear",
+            "level": "beginner",
+            "duration": "All-day",
+            "flow": "light to moderate",
+            "description": "Perfect pair of high-waisted for when your flow begins to lessen, or for light periods, or if youre using an IUD.",
+            "price": "$12",
+            "material": "Polyester, Spandex, Cotton",
+            "image": "https://cdn.shopify.com/s/files/1/0306/8837/8939/products/P1002WC_BRIEF_FRONT_1200x1200.jpg?v=1622750235",
+            "url": "https://period.co/collections/all/products/the-light-absorbency-high-waisted",
+            "rating": ""
+        },
+        {
+            "id": 2,
+            "name": "Knix Super Leakproof Bikini",
+            "level": "beginner",
+            "duration": "All-day",
+            "flow": "moderate to heavy",
+            "material": "Nylon, Spandex, Modal, Seaweed, Polyester",
+            "description": "Introducing the most absorbent period underwear ever - up to 8 tampons worth! Switch from relying on disposable products to wearing incredibly comfortable and machine-washable bikini underwear that will protect you every day of your cycle!",
+            "price": "$28",
+            "image": "https://s.yimg.com/ny/api/res/1.2/IRZ_MFhFqTd95MU_6F3RaA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NDY-/https://s.yimg.com/os/creatr-uploaded-images/2020-10/c597a090-0fe8-11eb-bef9-f3d5c1211bd7",
+            "url": "https://knix.com/collections/period-underwear/products/super-leakproof-bikini-dark-cherry",
+            "rating": ""
+        },
+        {
+            "id": 3,
+            "name": "Glad Rags - DayPad",
+            "level": "beginner",
+            "duration": "8-hours",
+            "capacity": "moderate",
+            "description": "GladRags are reusable Day Pads best for moderate flow and are as absorbent as a standard-size maxi pad",
+            "material": "Cotton",
+            "price": "$15",
+            "image":"https://d2lcihfy4zzex8.cloudfront.net/dbimages/24656.jpg",
+            "url":"https://gladrags.com/collections/day-pads/products/color-day-pad",
+            "rating": ""
+
+        },
+        {
+            "id": 4,
+            "name": "aisle Maxi Pad",
+            "level": "beginner",
+            "duration": "12-hours",
+            "flow": "heavy",
+            "material": "Cotton, Spandex, Polyester, Nylon",
+            "description": "aisle Maxi Pads were built to outperform disposables and can handle your heaviest period, without harming the planet.",
+            "price": "$19",
+            "image": "https://www.treehugger.com/thmb/ONRgAMV8NniyKiLB81LyVIUfBgk=/fit-in/1500x1102/filters:no_upscale():max_bytes(150000):strip_icc()/asile-reusable-pads-d4d60a1a99ec4f15b17bf38b750cc260.jpeg",
+            "url": "https://periodaisle.com/products/maxi-pad?variant=39349869805666"
+        },
+        {
+            "id": 5,
+            "name": "Intimina Lily Cup",
+            "level": "beginner",
+            "duration": "8-hours",
+            "flow": "medium",
+            "material": "Medical-Grade Silicone",
+            "Description": "Lily Cups angled form complements your anatomy, and is the only period cup that can be rolled as thin as a tampon. Its perfect for those who have a higher cervix or heavier flow while it offers complete comfort all period long.",
+            "price": "$27",
+            "image": "https://media.wired.com/photos/61e0c6d702a1a063b0506039/master/w_1280,c_limit/Gear-Lily-Cup-packaging.jpg",
+            "url": "https://www.intimina.com/lily-cup"
+        },
+        {
+            "id": 6,
+            "name": "MeLuna Menstrual Cup",
+            "level": "beginner",
+            "duration": "6-12-hours",
+            "flow": "Medium",
+            "material": "TPE (thermoplastic elastomer)",
+            "description": "The MeLuna USA menstrual cup is  the most customizable menstrual cup on the market, allowing you to have a menstrual cup with options just right for you! It is the perfect firmness for most users and conforms to your body without discomfort, but it is just firm enough to open easily.",
+            "price": "$27",
+            "image": "https://media.wired.com/photos/5f6e4b561518e2504fb0401c/master/w_1280,c_limit/Gear-MeLuna-cup-2-SOURCE-MeLuna.jpg",
+            "url": "https://meluna-usa.com/products/meluna-usa-menstrual-cup-with-stem-handle-classic-firmness.html"
+        }
+    ],
+    "disposable-products": [
+     
+        {
+            "name": " o.b.® PRO COMFORT® Super",
+            "level": "beginner plus",
+            "duration": "8 hours",
+            "flow": "heavy",
+            "material": "Rayon and Polyester",
+            "description": "o.b. ® Non applicator tampons protect you and the environment. Designed with grooves for locked-in leak protection, and SilkTouch™ cover for ultimate comfort and protection.",
+            "price": "$7",
+            "image": "https://www.ob-tampons.com/images/default-source/default-album/ob-pro-super.png?sfvrsn=f83016b8_0",
+            "url": "https://www.ob-tampons.com/product-details/procomfortsuper"
+        },
+        {
+            "name": "Tampax Pearl Regular",
+            "level": "beginner plus",
+            "duration": "8 hours",
+            "flow": "light to moderate",
+            "material": "Cotton and Viscose Rayon",
+            "description": "Designed for incredible all day comfort and protection with a LeakGuard Braid to help stop leaks before they happen. Tampax Pearl Regular Absorbency provides protection you can feel good about.",
+            "price": "$8",
+            "image": "https://i5.walmartimages.com/asr/40ff2f3d-dee6-4648-b5eb-6855b46b3928.e39f7ddd06a183e0f00bdf910207f785.jpeg",
+            "url": "https: //tampax.com/en-us/all-products/pearl/regular-tampons/"
+        },
+        {
+            "name": "Allnighter® Ultra-Thin Pads with Wings, Overnight",
+            "level": "beginner",
+            "duration": "8 hours",
+            "flow": "heavy",
+            "material": " Wood Pulp, Polypropylene, Polyethylene, etc.",
+            "description": "U by Kotex® Allnighter® Ultra Thin Overnight Pads with Wings provide up to 100% leak free protection and have a 60% larger back* for all night protection in any sleep position. Experience worry-free sleep with the unique COMFORTFLEX® design that fits and flexes with your body for outstanding skin comfort.",
+            "price": "$10",
+            "image": "https://www.ubykotex.com/-/media/ubykotex/product-images/2021-refresh-images/allnighter/ubk-allnighter-ut-overnight-atf1.jpg",
+            "url": "https://www.ubykotex.com/en-us/products/pads/ultra-thin/allnighter-overnight-with-wings"
+        },
+        {
+            "name": "Always thin daily liners",
+            "level": "beginner",
+            "duration": "4 hours",
+            "flow": "light",
+            "material": "Cellulose, Polypropylene, Polyethlene, etc.",
+            "description": "Always Thin No Feel Protection Daily Liners Regular are designed for discreet protection against daily discharge and odors. These pantiliners are made to be thin and absorbent for everyday freshness.",
+            "price": "$7",
+            "image": "https://images.ctfassets.net/o5hnyn1x0ewo/2jfK2qoBu1NVMZlZgSglvf/842534d24175d59196d660648339f2ed/Always-Thin-Pads-Unscented-ct-20.jpg",
+            "url": "https://www.always.com/en-us/shop-products/daily-liners/thin-liners/always-thin-dailies"
+        },
+        {
+            "name": "Flex disc",
+            "level": "beginner/intermediate",
+            "duartion": "12-hours",
+            "flow": "heavy",
+            "material": "Medical-Grade Polymers",
+            "description": "Flex Disc is a disposable menstrual product designed to give you the most liberating period of your life. It sits high in the vaginal fornix—where comfort is prioritized and sex is never off limits.",
+            "price": "$12",
+            "image": "https://images.ctfassets.net/qdyi7eiew2j6/5q6nu4gZa5nBOiZ0SyKFVO/d616e848fceef8996d0fc0ec8be718f8/image_1.jpg",
+            "url": "https://flexfits.com/pages/shop-flex-disc?gclid=Cj0KCQiAyracBhDoARIsACGFcS5ZgXfw1SMBGeDFmykZsZ0lYdyojWNfMm1DfNo0H5_Dat9_7cGgh4QaAh4bEALw_wcB"
+
+        },
+        {
+            "name": "Softdisc",
+            "level": "beginner/intermediate",
+            "duration": "12-hours",
+            "flow": "heavy",
+            "material": "Medical-Grade Polymers",
+            "description": "Softdisc is the leak-proof, swim-proof, sleep-proof alternative to tampons, pads, and menstrual cups. Softdisc catches fluid at the base of the cervix naturally eliminating menstrual odor and preventing irritation and dryness.",
+            "price": "$16",
+            "image": "https://cdn.shopify.com/s/files/1/0072/0440/5305/products/71C1QRmNL8L._SL1500_1946x.jpg?v=1548651808",
+            "url": "https://www.target.com/p/softdisc-menstrual-discs-14ct/-/A-75003204"
+        }
+    ],
+    "product-type":[
+        {
+            "name": "Tampon",
+            "description": "A tampon is a menstrual product designed to absorb blood and vaginal secretions by insertion into the vagina during menstruation.",
+            "image": "https://images.ctfassets.net/jtv5bdl5335w/2ZGVU078kR97SA0uLagWCG/5fb6a89ef851278fdaf26d964a877406/Tampax_UK_EN_Product_20listing_Tampax_Tampon_900x440.jpg?w=710"
+        },
+        {
+            "name": "Pads",
+            "description": "A menstrual pad is a type of menstrual hygiene product that is worn externally. Pads are generally changed by being stripped off the pants and panties, taking out the old pad, sticking the new one on the inside of the panties and pulling them back on.",
+            "image": "https://images.squarespace-cdn.com/content/v1/61dcd32b3fb8bb4b5af9b560/1643392699662-E8SVEUKZJHSLSMG0QXFK/organic-pads.jpeg"
+        },
+        {
+            "name": "Mentrual Disc",
+            "description": "A menstrual disc is an insertable alternative period product that is supposed to provide 12 hours of protection, let you have mess-free sex on your period, and even help minimize cramps.",
+            "image": "https://helios-i.mashable.com/imagery/articles/077v8ftgmIHHHPi7WWpl6QT/hero-image.fill.size_1200x1200.v1623391935.jpg"
+        },
+        {
+            "name": "Menstrual Cup",
+            "description": " A menstrual cup is a type of reusable feminine hygiene product. It is a small, flexible funnel-shaped cup made of rubber or silicone that you insert into your vagina to catch and collect period fluid. Many women use them as an eco-friendly alternative to tampons. Depending on your flow, you can wear a cup for up to 12 hours.",
+            "image": "https://post.healthline.com/wp-content/uploads/2020/08/3676-menstrual_cup_732x549-thumb.jpg"
+        },
+        {
+            "name": "Period Panties",
+            "description": "These absorbent underpants have multiple layers of microfiber polyester. They look like regular underwear, but they’re designed to keep moisture away from your skin as they soak up menstrual blood.",
+            "image": "https://www.byrdie.com/thmb/T3kc9183gvMWm3qVmksm8Bi0Mgo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/BYRDIE-11-best-period-underwear-4769219-primary-b4bf3802e87144dbb15053c41eec10ab.jpg"
+        },
+        {
+            "name": "Reusable Pads",
+            "description": "Reusable pads are made from cloth and are worn in the underwear to collect menstrual fluid. They are an alternative to sanitary napkins or to menstrual cups. Because they can be reused, they are generally less expensive than disposable pads over time, and reduce the amount of waste produced.",
+            "image": "https://cdn.shopify.com/s/files/1/0264/7418/4790/products/Myproject_8_e_1500x.jpg?v=1652819990"
+        }
+    ]
+}
